@@ -1,0 +1,50 @@
+@import url("https://fonts.cdnfonts.com/css/a-cursive");
+
+* {
+  font-family: "Times New Roman", Times, serif;
+  background-color: rgb(148, 179, 195);
+}
+
+.header {
+  width: 100%;
+  position: fixed;
+  overflow: auto;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+}
+
+.name {
+  font-size: xxx-large;
+  float: left;
+  margin-left: 7vh;
+  margin-top: 2vh;
+  font-family: "A Cursive", sans-serif;
+}
+.links {
+  margin-top: 3vh;
+  color: rgb(253, 249, 249);
+  float: right;
+  font-size: x-large;
+  margin-right: 3vh;
+}
+
+.a {
+  margin-right: 8vh;
+}
+
+.b {
+  margin-right: 8vh;
+}
+
+.c {
+  margin-right: 8vh;
+}
+
+.img {
+  margin-top: 15vh;
+  border-radius: 80%;
+  float: right;
+  margin-right: 15vh;
+}
