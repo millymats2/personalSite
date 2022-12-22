@@ -1,0 +1,85 @@
+.mainAbout {
+  box-sizing: content-box;
+  background-color: rgb(250, 233, 201);
+  text-align: center;
+  display: flex;
+}
+
+.s1 {
+  box-sizing: content-box;
+  border: 2px solid white;
+  padding: 4px;
+  height: 70vh;
+  text-align: right;
+  font-size: large;
+  margin: 4vh;
+  box-shadow: 5px 10px rgb(55, 79, 93);
+  width: 200vh;
+}
+
+.s2 {
+  box-sizing: content-box;
+  border: 2px solid white;
+  text-align: right;
+  padding: 4px;
+  height: 70vh;
+  text-align: right;
+  font-size: large;
+  margin: 4vh;
+  box-shadow: 5px 10px rgb(55, 79, 93);
+  width: 200vh;
+}
+
+.s3 {
+  box-sizing: content-box;
+  border: 2px solid white;
+  text-align: left;
+  padding: 4px;
+  height: 70vh;
+  text-align: right;
+  font-size: large;
+  margin: 4vh;
+  box-shadow: 5px 10px rgb(55, 79, 93);
+  width: 200vh;
+}
+
+.pic1 {
+  float: left;
+
+  margin-left: 10vh;
+}
+
+.pic2 {
+  float: right;
+
+  margin-right: 10vh;
+}
+
+.aboutwords {
+  text-align: center;
+  color: rgb(255, 253, 253);
+  font-size: xx-large;
+  margin-top: 5vh;
+}
+
+.abouttext {
+  color: rgb(250, 233, 201);
+  margin-top: 2vh;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: x-large;
+  margin-right: 5vh;
+  margin-left: 5vh;
+}
+
+.aboutp {
+  color: rgb(255, 255, 255);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: larger;
+  margin-right: 5vh;
+  margin-left: 5vh;
+}
+
+.glinks {
+  text-align: center;
+  margin-bottom: 3vh;
+}
